@@ -1,0 +1,17 @@
+a{
+    color: inherit;
+}
+
+pre.pre-code{
+    padding-top: 1.2%;
+    background-color: #29125b;
+    font-size: .85em;
+}
+
+.bc-off-white {
+    color: #29125b;
+}
+
+.bc-white-dd {
+    color: rgb(16, 148, 16);
+}

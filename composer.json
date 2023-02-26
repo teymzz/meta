@@ -1,0 +1,19 @@
+{
+    "name": "teymzz/meta",
+    "description": "Class for building meta tags",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Teymzz\\Meta\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Akinola Saheed",
+            "email": "teymss@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
